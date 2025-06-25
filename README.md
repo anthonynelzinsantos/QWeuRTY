@@ -17,7 +17,7 @@ QWeuRTY uses nine dead keys:
 - `^` for the circumflex accent;
 - `'` for the acute and double acute accents;
 - `"` for the diaeresis and double grave accent;
-- `\\` for the caron;
+- `\` for the caron;
 - `|` for the macron and stroked characters;
 - `§` for the cedilla and the ogonek;
 - and `±` for the dot.
