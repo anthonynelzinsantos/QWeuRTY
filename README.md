@@ -40,7 +40,7 @@ To type an "é", for example, you first type `'` to activate the acute accent la
 
 ![Caron and subscript.](images/caron.png)
 
-![Macron and stroked characters.](images/caron.png)
+![Macron and stroked characters.](images/macron.png)
 
 ![Cedilla and ogonek.](images/cedilla.png)
 
