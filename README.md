@@ -62,7 +62,7 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 
 `“` and `‘` will probably be switched in the 1.0 release. I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in any European language and the `i` key is available).
 
-### Grace accent and breves
+### Grave accent and breves
 
 	` ● ● ȇ ȓ ● ● ȗ ȋ ȏ ● ● ●
 	  ȃ ẁ è ● ● ỳ ù ì ò ● ● ●
