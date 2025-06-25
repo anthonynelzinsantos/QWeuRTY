@@ -30,7 +30,7 @@ Use the appropriate files in the repo to manually install QWeuRTY 0.9 on your sy
 
 ## Layers
 
-Keys marked with `●` aren’t defined, but might be in the future. From the QWeuRTY 1.0 onwards, keys shouldn’t change unless they’re overwhelming support to do so.
+Keys marked with `●` aren’t defined, but might be in the future. From QWeuRTY 1.0 onwards, keys shouldn’t change unless there’s overwhelming support to do so.
 
 ### Base layer
 
