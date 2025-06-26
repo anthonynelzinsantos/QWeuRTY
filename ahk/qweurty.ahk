@@ -616,16 +616,16 @@ if not GetKeyState("CapsLock", "T") {
 Return
 >!<^SC017::
 if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+2020} ; †
+  Send {Blind}{U+0131} ; ı
 } else {
-  Send {Blind}{U+2021} ; ‡
+  Send {Blind}{U+0130} ; İ
 }
 Return
 +>!<^SC017::
 if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+2021} ; ‡
+  Send {Blind}{U+0130} ; İ
 } else {
-  Send {Blind}{U+2020} ; †
+  Send {Blind}{U+0131} ; ı
 }
 Return
 
@@ -876,20 +876,8 @@ if not GetKeyState("CapsLock", "T") {
   Send {Blind}{U+0068} ; h
 }
 Return
->!<^SC023::
-if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+1e25} ; ḥ
-} else {
-  Send {Blind}{U+1e24} ; Ḥ
-}
-Return
-+>!<^SC023::
-if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+1e24} ; Ḥ
-} else {
-  Send {Blind}{U+1e25} ; ḥ
-}
-Return
+>!<^SC023::Return
++>!<^SC023::Return
 
 ; QWERTY J
 #if
@@ -971,16 +959,16 @@ if not GetKeyState("CapsLock", "T") {
 Return
 >!<^SC026::
 if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+1e37} ; ḷ
+  Send {Blind}{U+2020} ; †
 } else {
-  Send {Blind}{U+1e36} ; Ḷ
+  Send {Blind}{U+2021} ; ‡
 }
 Return
 +>!<^SC026::
 if not GetKeyState("CapsLock", "T") {
-  Send {Blind}{U+1e36} ; Ḷ
+  Send {Blind}{U+2021} ; ‡
 } else {
-  Send {Blind}{U+1e37} ; ḷ
+  Send {Blind}{U+2020} ; †
 }
 Return
 
@@ -1257,15 +1245,14 @@ if (DeadKeys.item("dot") == "") {
   DeadKeys.item("dot").item("r") := "ṙ"
   DeadKeys.item("dot").item("t") := "ṫ"
   DeadKeys.item("dot").item("y") := "ẏ"
-  DeadKeys.item("dot").item("i") := "ı"
   DeadKeys.item("dot").item("o") := "ȯ"
   DeadKeys.item("dot").item("p") := "ṗ"
   DeadKeys.item("dot").item("a") := "ȧ"
   DeadKeys.item("dot").item("s") := "ṡ"
   DeadKeys.item("dot").item("d") := "ḋ"
   DeadKeys.item("dot").item("f") := "ḟ"
-  DeadKeys.item("dot").item("h") := "ḣ"
-  DeadKeys.item("dot").item("j") := "ȷ"
+  DeadKeys.item("dot").item("h") := "ḥ"
+  DeadKeys.item("dot").item("l") := "ḷ"
   DeadKeys.item("dot").item("z") := "ż"
   DeadKeys.item("dot").item("x") := "ẋ"
   DeadKeys.item("dot").item("c") := "ċ"
@@ -1283,7 +1270,8 @@ if (DeadKeys.item("dot") == "") {
   DeadKeys.item("dot").item("S") := "Ṡ"
   DeadKeys.item("dot").item("D") := "Ḋ"
   DeadKeys.item("dot").item("F") := "Ḟ"
-  DeadKeys.item("dot").item("H") := "Ḣ"
+  DeadKeys.item("dot").item("H") := "Ḥ"
+  DeadKeys.item("dot").item("L") := "Ḷ"
   DeadKeys.item("dot").item("Z") := "Ż"
   DeadKeys.item("dot").item("X") := "Ẋ"
   DeadKeys.item("dot").item("C") := "Ċ"

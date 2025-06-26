@@ -252,7 +252,7 @@
       <key code="17" output="þ" />
       <key code="16" output="ȝ" />
       <key code="32" output="ů" />
-      <key code="34" output="†" />
+      <key code="34" output="ı" />
       <key code="31" output="ø" />
       <key code="35" output="œ" />
       <key code="33" output="«" />
@@ -262,10 +262,9 @@
       <key code="2" output="ð" />
       <key code="3" output="ƒ" />
       <key code="5" output="ŋ" />
-      <key code="4" output="ḥ" />
       <key code="38" output="ĳ" />
       <key code="40" output="∫" />
-      <key code="37" output="ḷ" />
+      <key code="37" output="†" />
       <key code="41" output="…" />
       <key code="39" output="′" />
       <key code="42" output="¬" />
@@ -350,7 +349,7 @@
       <key code="17" output="Þ" />
       <key code="16" output="Ȝ" />
       <key code="32" output="Ů" />
-      <key code="34" output="‡" />
+      <key code="34" output="İ" />
       <key code="31" output="Ø" />
       <key code="35" output="Œ" />
       <key code="33" output="‹" />
@@ -360,10 +359,9 @@
       <key code="2" output="Ð" />
       <key code="3" output="ſ" />
       <key code="5" output="Ŋ" />
-      <key code="4" output="Ḥ" />
       <key code="38" output="Ĳ" />
       <key code="40" output="∂" />
-      <key code="37" output="Ḷ" />
+      <key code="37" output="‡" />
       <key code="41" output="¦" />
       <key code="39" output="″" />
       <key code="42" output="№" />
@@ -644,7 +642,7 @@
       <key code="17" output="Þ" />
       <key code="16" output="Ȝ" />
       <key code="32" output="Ů" />
-      <key code="34" output="‡" />
+      <key code="34" output="İ" />
       <key code="31" output="Ø" />
       <key code="35" output="Œ" />
       <key code="33" output="«" />
@@ -654,10 +652,9 @@
       <key code="2" output="Ð" />
       <key code="3" output="ſ" />
       <key code="5" output="Ŋ" />
-      <key code="4" output="Ḥ" />
       <key code="38" output="Ĳ" />
       <key code="40" output="∂" />
-      <key code="37" output="Ḷ" />
+      <key code="37" output="‡" />
       <key code="41" output="…" />
       <key code="39" output="′" />
       <key code="42" output="¬" />
@@ -742,7 +739,7 @@
       <key code="17" output="þ" />
       <key code="16" output="ȝ" />
       <key code="32" output="ů" />
-      <key code="34" output="†" />
+      <key code="34" output="ı" />
       <key code="31" output="ø" />
       <key code="35" output="œ" />
       <key code="33" output="‹" />
@@ -752,10 +749,9 @@
       <key code="2" output="ð" />
       <key code="3" output="ƒ" />
       <key code="5" output="ŋ" />
-      <key code="4" output="ḥ" />
       <key code="38" output="ĳ" />
       <key code="40" output="∫" />
-      <key code="37" output="ḷ" />
+      <key code="37" output="†" />
       <key code="41" output="¦" />
       <key code="39" output="″" />
       <key code="42" output="№" />
@@ -1068,7 +1064,7 @@
       <when state="dead:caron" output="Ȟ" />
       <when state="dead:macron" output="Ħ" />
       <when state="dead:cedilla" output="Ḩ" />
-      <when state="dead:dot" output="Ḣ" />
+      <when state="dead:dot" output="Ḥ" />
     </action>
     <action id="I">
       <when state="none" output="I" />
@@ -1102,6 +1098,7 @@
       <when state="dead:caron" output="Ľ" />
       <when state="dead:macron" output="Ł" />
       <when state="dead:cedilla" output="Ļ" />
+      <when state="dead:dot" output="Ḷ" />
     </action>
     <action id="M">
       <when state="none" output="M" />
@@ -1280,7 +1277,7 @@
       <when state="dead:caron" output="ȟ" />
       <when state="dead:macron" output="ħ" />
       <when state="dead:cedilla" output="ḩ" />
-      <when state="dead:dot" output="ḣ" />
+      <when state="dead:dot" output="ḥ" />
     </action>
     <action id="i">
       <when state="none" output="i" />
@@ -1291,7 +1288,6 @@
       <when state="dead:dresis" output="ï" />
       <when state="dead:caron" output="ǐ" />
       <when state="dead:macron" output="ī" />
-      <when state="dead:dot" output="ı" />
     </action>
     <action id="j">
       <when state="none" output="j" />
@@ -1300,7 +1296,6 @@
       <when state="dead:dresis" output="ṳ" />
       <when state="dead:caron" output="ǆ" />
       <when state="dead:macron" output="ɉ" />
-      <when state="dead:dot" output="ȷ" />
     </action>
     <action id="k">
       <when state="none" output="k" />
@@ -1316,6 +1311,7 @@
       <when state="dead:caron" output="ľ" />
       <when state="dead:macron" output="ł" />
       <when state="dead:cedilla" output="ļ" />
+      <when state="dead:dot" output="ḷ" />
     </action>
     <action id="m">
       <when state="none" output="m" />

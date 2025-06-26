@@ -23,7 +23,7 @@ xkb_symbols "basic" {
     key <AD05> { [            t,            T,        thorn,        THORN ] };
     key <AD06> { [            y,            Y,        U021D,        U021C ] };
     key <AD07> { [            u,            U,        uring,        Uring ] };
-    key <AD08> { [            i,            I,       dagger, doubledagger ] };
+    key <AD08> { [            i,            I,     idotless,    Iabovedot ] };
     key <AD09> { [            o,            O,       oslash,       Oslash ] };
     key <AD10> { [            p,            P,           oe,           OE ] };
     key <AD11> { [  bracketleft,    braceleft, guillemotleft,        U2039 ] };
@@ -33,10 +33,10 @@ xkb_symbols "basic" {
     key <AC03> { [            d,            D,          eth,          ETH ] };
     key <AC04> { [            f,            F,     function,        U017F ] };
     key <AC05> { [            g,            G,          eng,          ENG ] };
-    key <AC06> { [            h,            H,        U1E25,        U1E24 ] };
+    key <AC06> { [            h,            H,   VoidSymbol,   VoidSymbol ] };
     key <AC07> { [            j,            J,        U0133,        U0132 ] };
     key <AC08> { [            k,            K,     integral, partialderivative ] };
-    key <AC09> { [            l,            L,    lbelowdot,    Lbelowdot ] };
+    key <AC09> { [            l,            L,       dagger, doubledagger ] };
     key <AC10> { [    semicolon,        colon,     ellipsis,    brokenbar ] };
     key <AC11> { [   apostrophe,     quotedbl,      minutes,      seconds ] };
     key <BKSL> { [    backslash,          bar,      notsign,   numerosign ] };

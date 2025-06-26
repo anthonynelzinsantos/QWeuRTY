@@ -38,29 +38,27 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 	  q w e r t y u i o p [ ] \
 	  a s d f g h j k l ; '
 	§ z x c v b n m , . /
-	         SP
+          SP
 
 	~ ! @ # $ % ^ & * ( ) _ +
 	  Q W E R T Y U I O P { } |
 	  A S D F G H J K L : "
 	± Z X C V B N M < > ?
-	         SP
+          SP
 
 ### AltGr/Opt
 
 	º · ² £ € ‰ σ π ° ‘ ’ — ≠
-	  æ ƿ ə ® þ ȝ ů † ø œ « » ¬
-	  å ß ð ƒ ŋ ḥ ĳ ∫ ḷ … ′
+	  æ ƿ ə ® þ ȝ ů ı ø œ « » ¬
+	  å ß ð ƒ ŋ ● ĳ ∫ † … ′
 	¶ ʒ × ç √ § ñ µ ≤ ≥ ÷
           NBSP
 
 	ª ¡ ₂ ¥ ¢ ‱ ∑ Π ⌀ “ ” – ±
-	  Æ Ƿ Ə © Þ Ȝ Ů ‡ Ø Œ ‹ › №
-	  Å ẞ Ð ſ Ŋ Ḥ Ĳ ∂ Ḷ ¦ ″
+	  Æ Ƿ Ə © Þ Ȝ Ů İ Ø Œ ‹ › №
+	  Å ẞ Ð ſ Ŋ ● Ĳ ∂ ‡ ¦ ″
 	∞ Ʒ ⨯ Ç ∛ ¶ Ñ Ω ⸢ ⸥ ¿
-	        NBSP
-
-I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in any European language and the `i` key is available).
+          NBSP
 
 ### Grave accent and breves
 
@@ -68,13 +66,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ȃ ẁ è ● ● ỳ ù ì ò ● ● ●
 	  à ● ĕ ● ● ● ŭ ĭ ŏ ● ● ●
 	● ă ● ● ● ğ ǹ ● ● ● ●
-            `
+	          `
 	             
 	` ● ● Ȇ Ȓ ● ● Ȗ Ȋ Ȏ ● ● ●
 	  Ȃ Ẁ È ● ● Ỳ Ù Ì Ò ● ● ●
 	  À ● Ĕ ● ● ● Ŭ Ĭ Ŏ ● ● ●
 	● Ă ● ● ● Ğ Ǹ ● ● ● ●
-            `
+	          `
 
 ### Tilde
 
@@ -82,13 +80,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ● ● ẽ ● ● ỹ ũ ĩ õ ● ● ●
 	  ã ● ● ● ● ● ● ● ● ● ● ●
 	● ● ● ● ṽ ● ñ ● ● ● ●
-	           ~
+	          ~
 	           
 	~ ● ● ● ● ● ● ● ● ● ● ● ●
 	  ● ● Ẽ ● ● Ỹ Ũ Ĩ Õ ● ● ●
 	  Ã ● ● ● ● ● ● ● ● ● ● ●
 	● ● ● ● Ṽ ● Ñ ● ≲ ≳ ●
-	           ~
+	          ~
 
 ### Circumflex accent and superscript
 
@@ -96,13 +94,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ● ŵ Ê ● ● ŷ û î ô ● ● ●
 	  â ŝ ● ● ĝ ĥ ĵ ● ● ● ● ●
 	● ẑ ● ĉ ● ● ⁿ ● ● ● ●
-            ^
+	          ^
 	
 	● ● ● ● ● ^ ● ● ● ● ⁽ ⁾ ● ⁺
 	  ● Ŵ Ê ● ● Ŷ Û Î Ô ● ● ●
 	  Â Ŝ ● ● Ĝ Ĥ Ĵ ● ● ● ● ●
 	● Ẑ ● Ĉ ● ● ● ● ● ● ●
-            ^
+	          ^
 
 ### Acute and double acute accent
 
@@ -110,13 +108,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ǽ ẃ é ŕ ● ý ú í ó ṕ ● ●
 	  á ś ● ● ǵ ● ● ḱ ĺ ● ' ●
 	● ź ● ć ● ● ń ḿ ● ● ●
-            ’
+	          ’
               
 	● ● ● ● ● ● ● Ű ● Ő ● ● ●
 	  Ǽ Ẃ É Ŕ ● Ý Ú Í Ó Ṕ ● ●
 	  Á Ś ● ● Ǵ ● ● Ḱ Ĺ ● ' ●
 	● Ź ● Ć ● ● Ń Ḿ ● ● ●
-            ’
+	          ’
 
 ### Diaeresis and double grave accent
 
@@ -124,13 +122,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ȁ ẅ ë ● ● ÿ ü ï ö ● ● ●
 	  ä ● ● ● ● ḧ ṳ ● ● ● ● ●
 	● ● ẍ ● ● ● ● ● ● ● ●
-            "
+	          "
 	            
 	● ● ● Ȅ Ȑ ● ● Ȕ Ȉ Ȍ ● ● ●
 	  Ȁ Ẅ Ë ● ● Ÿ Ü Ï Ö ● ● ●
 	  Ä ● ● ● ● Ḧ Ṳ ● ● ● ● ●
 	● ● Ẍ ● ● ● ● ● ● ● ●
-            "
+	          "
 
 ### Caron and subscript
 
@@ -138,13 +136,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ǯ ● ě ř ť ● ǔ ǐ ǒ ● ● ●
 	  ǎ š ď ● ǧ ȟ ǆ ● ľ ● ● ●
 	● ● ₓ č ● ● ň ● ● ● ●
-            \
+	          \
 	           
 	● ● ● ● ● ● ● ● ● ₍ ₎ ● ₊
 	  Ǯ ● Ě Ř Ť ● Ǔ Ǐ Ǒ ● ● ●
 	  Ǎ Š Ď ● Ǧ Ȟ Ǆ ● Ľ ● ● ●
 	● ● ● Č ● ● Ň ● ● ● ●
-             \
+	          \
 
 ### Macron and stroked characters
 
@@ -152,13 +150,13 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	  ā ● ē ɍ Ť ȳ ū ī ō ᵽ ● ●
 	  ā ꞩ đ ● ḡ ħ ɉ ꝃ ł ● ● ●
 	● ƶ ● ȼ ꝟ ƀ ꞥ ● ≮ ≯ ●
-           |
+	          |
            
 	● ● ● ● ● ● ● ● ● ● ● ● ●
 	  Ā ● Ē Ɍ Ť Ȳ Ū Ī Ō Ᵽ ● ●
 	  Ā Ꞩ Đ ● Ḡ Ħ Ɉ Ꝃ Ł ● ● ●
 	● Ƶ ● Ȼ Ꝟ Ƀ Ꞥ ● ≰ ≱ ●
-            |
+	          |
 
 ### Cedilla and ogonek
 
@@ -166,27 +164,27 @@ I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in a
 	   ą ș ȩ ŗ ţ ● ● ● ● ● ● ●
 	   ● ş ḑ ● ģ ḩ ● ķ ļ ● ● ●
 	§ ● ● ç ● ● ņ ● ● ● ●
-            §
+	          §
             
 	● ● ● Ę ● Ț ● Ų Į Ǫ ● ● ●
 	   Ą Ș Ȩ Ŗ Ţ ● ● ● ● ● ● ●
 	   ● Ş Ḑ ● Ģ Ḩ ● Ķ Ļ ● ● ●
 	§ ● ● Ç ● ● Ņ ● ● ● ●
-            §
+	          §
 
 ### Dot
 
 	● ● ● ● ● ● ● ● ● ● ● ● ●
-	   ● ẇ ė ṙ ṫ ẏ ● ı ȯ ṗ ● ●
-	   ȧ ṡ ḋ ḟ ● ḣ ȷ ● ● ● ● ●
+	   ● ẇ ė ṙ ṫ ẏ ● ● ȯ ṗ ● ●
+	   ȧ ṡ ḋ ḟ ● ḥ ● ● ḷ ● ● ●
 	● ż ẋ ċ ● ḃ ṅ ṁ ● ● ●
-				   ±
+	          ±
 				   
 	● ● ● ● ● ● ● ● ● ● ● ● ●
-	   ● Ẇ Ė Ṙ Ṫ Ẏ ● I Ȯ Ṗ ● ●
-	   Ȧ Ṡ Ḋ Ḟ ● Ḣ ȷ ● ● ● ● ●
+	   ● Ẇ Ė Ṙ Ṫ Ẏ ● ● Ȯ Ṗ ● ●
+	   Ȧ Ṡ Ḋ Ḟ ● Ḣ ● ● Ḷ ● ● ●
 	● Ż Ẋ Ċ ● Ḃ Ṅ Ṁ ● ● ●
-				   ±
+	          ±
 
 ## Help wanted
 
@@ -194,6 +192,7 @@ I’ve been using QWeuRTY since 2020, so i know it’s working well on ISO keybo
 
 ## Release history
 
+- **0.10 (250626)** Relocated `ı`, `ḥ` and `ḷ`
 - **0.9 (250620)** First public release
 - ‌**0.8 (250615)** Removed the currency layer
 - **0.7 (241103)** Added the dot layer

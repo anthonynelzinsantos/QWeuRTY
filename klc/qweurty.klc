@@ -40,7 +40,7 @@ LAYOUT
 14	T	1	t	T	00fe	00de	// QWERTY T: t, T, þ, Þ
 15	Y	1	y	Y	021d	021c	// QWERTY Y: y, Y, ȝ, Ȝ
 16	U	1	u	U	016f	016e	// QWERTY U: u, U, ů, Ů
-17	I	1	i	I	2020	2021	// QWERTY I: i, I, †, ‡
+17	I	1	i	I	0131	0130	// QWERTY I: i, I, ı, İ
 18	O	1	o	O	00f8	00d8	// QWERTY O: o, O, ø, Ø
 19	P	1	p	P	0153	0152	// QWERTY P: p, P, œ, Œ
 1a	OEM_4	0	005b	007b	00ab	2039	// QWERTY [: [, {, «, ‹
@@ -50,10 +50,10 @@ LAYOUT
 20	D	1	d	D	00f0	00d0	// QWERTY D: d, D, ð, Ð
 21	F	1	f	F	0192	017f	// QWERTY F: f, F, ƒ, ſ
 22	G	1	g	G	014b	014a	// QWERTY G: g, G, ŋ, Ŋ
-23	H	1	h	H	1e25	1e24	// QWERTY H: h, H, ḥ, Ḥ
+23	H	1	h	H	// QWERTY H: h, H
 24	J	1	j	J	0133	0132	// QWERTY J: j, J, ĳ, Ĳ
 25	K	1	k	K	222b	2202	// QWERTY K: k, K, ∫, ∂
-26	L	1	l	L	1e37	1e36	// QWERTY L: l, L, ḷ, Ḷ
+26	L	1	l	L	2020	2021	// QWERTY L: l, L, †, ‡
 27	OEM_1	0	003b	003a	2026	00a6	// QWERTY ;: ;, :, …, ¦
 28	OEM_7	0	0027@	0022@	2032	2033	// QWERTY ': cdk:acute, cdk:dresis, ′, ″
 2b	OEM_5	0	005c@	007c@	00ac	2116	// QWERTY \: cdk:caron, cdk:macron, ¬, №
@@ -415,15 +415,14 @@ DEADKEY 00b1	// dot
 0072	1e59	// r → ṙ
 0074	1e6b	// t → ṫ
 0079	1e8f	// y → ẏ
-0069	0131	// i → ı
 006f	022f	// o → ȯ
 0070	1e57	// p → ṗ
 0061	0227	// a → ȧ
 0073	1e61	// s → ṡ
 0064	1e0b	// d → ḋ
 0066	1e1f	// f → ḟ
-0068	1e23	// h → ḣ
-006a	0237	// j → ȷ
+0068	1e25	// h → ḥ
+006c	1e37	// l → ḷ
 007a	017c	// z → ż
 0078	1e8b	// x → ẋ
 0063	010b	// c → ċ
@@ -441,7 +440,8 @@ DEADKEY 00b1	// dot
 0053	1e60	// S → Ṡ
 0044	1e0a	// D → Ḋ
 0046	1e1e	// F → Ḟ
-0048	1e22	// H → Ḣ
+0048	1e24	// H → Ḥ
+004c	1e36	// L → Ḷ
 005a	017b	// Z → Ż
 0058	1e8a	// X → Ẋ
 0043	010a	// C → Ċ
