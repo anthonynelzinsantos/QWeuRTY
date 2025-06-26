@@ -26,7 +26,7 @@ To type a ‘é’, for example, you first type `'` to activate the acute accent
 
 ## Installation
 
-Use the appropriate files in the repo to manually install QWeuRTY 0.9 on your system. Packages with installation scripts will be released soon.
+Use the appropriate files in the repo to manually install QWeuRTY on your system. Packages with installation scripts will be available with QWeuRTY 1.0.
 
 ## Layers
 
