@@ -48,19 +48,19 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 
 ### AltGr/Opt
 
-	º · ² £ € ‰ π ∞ ° “ ” — ≠
+	º · ² £ € ‰ σ π ° ‘ ’ — ≠
 	  æ ƿ ə ® þ ȝ ů † ø œ « » ¬
 	  å ß ð ƒ ŋ ḥ ĳ ∫ ḷ … ′
-	● ʒ × ç √ § ñ µ ≤ ≥ ÷
+	¶ ʒ × ç √ § ñ µ ≤ ≥ ÷
           NBSP
 
-	ª ¡ ₂ ¥ ¢ ‱ ∏ ∑ ⌀ ‘ ’ – ±
+	ª ¡ ₂ ¥ ¢ ‱ ∑ Π ⌀ “ ” – ±
 	  Æ Ƿ Ə © Þ Ȝ Ů ‡ Ø Œ ‹ › №
 	  Å ẞ Ð ſ Ŋ Ḥ Ĳ ∂ Ḷ ¦ ″
-	● Ʒ ⨯ Ç ∛ ¶ Ñ Ω ⸢ ⸥ ¿
+	∞ Ʒ ⨯ Ç ∛ ¶ Ñ Ω ⸢ ⸥ ¿
 	        NBSP
 
-`“` and `‘` will probably be switched in the 1.0 release. I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in any European language and the `i` key is available).
+I’m debating putting `ḥ` and `ḷ` in the dot layer (`ḣ` isn’t used in any European language and the `i` key is available).
 
 ### Grave accent and breves
 
