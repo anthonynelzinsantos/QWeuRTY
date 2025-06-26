@@ -182,7 +182,7 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 				   
 	● ● ● ● ● ● ● ● ● ● ● ● ●
 	   ● Ẇ Ė Ṙ Ṫ Ẏ ● ● Ȯ Ṗ ● ●
-	   Ȧ Ṡ Ḋ Ḟ ● Ḣ ● ● Ḷ ● ● ●
+	   Ȧ Ṡ Ḋ Ḟ ● Ḥ ● ● Ḷ ● ● ●
 	● Ż Ẋ Ċ ● Ḃ Ṅ Ṁ ● ● ●
 	          ±
 
