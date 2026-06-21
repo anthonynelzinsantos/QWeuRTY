@@ -1137,7 +1137,6 @@
       <when state="dead:grave" output="Ȃ" />
       <when state="dead:acute" output="Ǽ" />
       <when state="dead:dresis" output="Ȁ" />
-      <when state="dead:caron" output="Ǯ" />
       <when state="dead:macron" output="Ǣ" />
       <when state="dead:cedilla" output="Ą" />
     </action>
@@ -1209,6 +1208,7 @@
       <when state="dead:grave" output="Ă" />
       <when state="dead:circum" output="Ẑ" />
       <when state="dead:acute" output="Ź" />
+      <when state="dead:caron" output="Ǯ" />
       <when state="dead:macron" output="Ƶ" />
       <when state="dead:dot" output="Ż" />
     </action>
@@ -1351,7 +1351,6 @@
       <when state="dead:grave" output="ȃ" />
       <when state="dead:acute" output="ǽ" />
       <when state="dead:dresis" output="ȁ" />
-      <when state="dead:caron" output="ǯ" />
       <when state="dead:macron" output="ǣ" />
       <when state="dead:cedilla" output="ą" />
     </action>
@@ -1425,6 +1424,7 @@
       <when state="dead:grave" output="ă" />
       <when state="dead:circum" output="ẑ" />
       <when state="dead:acute" output="ź" />
+      <when state="dead:caron" output="ǯ" />
       <when state="dead:macron" output="ƶ" />
       <when state="dead:dot" output="ż" />
     </action>
