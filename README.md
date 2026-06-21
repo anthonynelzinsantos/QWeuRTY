@@ -1,20 +1,20 @@
 # QWeuRTY
 
-The truly pan-European keyboard layout.
+The truly pan-European QWERTY layout.
 
 ## Design goals
 
-From the French ‘ç’ to the Portuguese ‘ã’, the Asturian ‘ḥ’ to the Icelandic ‘ð’, the Spanish ‘ñ’ to the Irish ‘í’, the Swedish ‘å’ to the Dutch ‘ĳ’, the German ‘ß’ to the Czech ‘ř’, the Polish ‘ł’ to the Lithuanian ‘ą’, the Hungarian ‘ő’ to the Turkish ‘ı’ and much more, QWeuRTY is designed to enable the input of every character from every Latin-script European language with a QWERTY keyboard.
+From the French ‘ç’ to the Portuguese ‘ã’, the Asturian ‘ḥ’ to the Icelandic ‘ð’, the Spanish ‘ñ’ to the Irish ‘í’, the Swedish ‘å’ to the Dutch ‘ĳ’, the German ‘ß’ to the Czech ‘ř’, the Polish ‘ł’ to the Lithuanian ‘ą’, the Hungarian ‘ő’ to the Turkish ‘ı’ and much more, QWeuRTY lets you type every character in every Latin-script European language straight from a QWERTY keyboard.
 
-Like the so-called international keyboard layouts, it turns all the accent keys (and a few more) into dead keys to input the most common diacritic marks. The `AltGr` (on PC) or `Opt` (on Mac) layer is also used to input useful symbols. QWeuRTY works best with an ISO keyboard, but it can be used with an ANSI keyboard, albeit with limited functionality.
+Like every other international layout, QWeuRTY leans heavily on dead keys for the most common diacritics. The `AltGr` (on PC) or `Opt` (on Mac) layer is also used to input useful symbols. QWeuRTY works best on a 105-key ISO keyboard, though it’ll do in a pinch on a 104-key ANSI one, albeit with reduced functionality.
 
 ## Usage
 
 QWeuRTY uses nine dead keys:
 
-- <code>\`</code> for the grave accent and the breves;
+- <code>\`</code> for the grave accent and breves;
 - `~` for the tilde;
-- `^` for the circumflex accent;
+- `^` for the circumflex;
 - `'` for the acute and double acute accents;
 - `"` for the diaeresis and double grave accent;
 - `\` for the caron;
@@ -22,7 +22,7 @@ QWeuRTY uses nine dead keys:
 - `§` for the cedilla and the ogonek;
 - and `±` for the dot.
 
-To type a ‘é’, for example, you first type `'` to activate the acute accent layer, then `e`. To type `'`, you can simply press `'` twice. Some characters, such as `ð` or `æ`, are placed on the `AltGr/Opt` layer as they don’t fit neatly into the various accent layers.
+To type an ‘é’, for example, you first type `'` to activate the acute accent layer, then `e`. To type `'`, you can simply press `'` twice. Some characters, such as `ð` or `æ`, are placed on the `AltGr/Opt` layer as they don’t fit neatly into the various accent layers.
 
 ## Installation
 
@@ -35,28 +35,28 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 ### Base layer
 
 	` 1 2 3 4 5 6 7 8 9 0 - =
-	  q w e r t y u i o p [ ] \
-	  a s d f g h j k l ; '
+	  q w e r t y u i o p [ ]
+	  a s d f g h j k l ; ' \
 	§ z x c v b n m , . /
           SP
 
 	~ ! @ # $ % ^ & * ( ) _ +
-	  Q W E R T Y U I O P { } |
-	  A S D F G H J K L : "
+	  Q W E R T Y U I O P { }
+	  A S D F G H J K L : " |
 	± Z X C V B N M < > ?
           SP
 
 ### AltGr/Opt
 
 	º · ² £ € ‰ σ π ° ‘ ’ — ≠
-	  æ ƿ ə ® þ ȝ ů ı ø œ « » ¬
-	  å ß ð ƒ ŋ ● ĳ ∫ † … ′
+	  æ ƿ ə ® þ ȝ ů ı ø œ « »
+	  å ß ð ƒ ŋ ● ĳ ∫ † … ′ ¬
 	¶ ʒ × ç √ § ñ µ ≤ ≥ ÷
           NBSP
 
 	ª ¡ ₂ ¥ ¢ ‱ ∑ Π ⌀ “ ” – ±
-	  Æ Ƿ Ə © Þ Ȝ Ů İ Ø Œ ‹ › №
-	  Å ẞ Ð ſ Ŋ ● Ĳ ∂ ‡ ¦ ″
+	  Æ Ƿ Ə © Þ Ȝ Ů İ Ø Œ ‹ ›
+	  Å ẞ Ð ſ Ŋ ● Ĳ ∂ ‡ ¦ ″ №
 	∞ Ʒ ⨯ Ç ∛ ¶ Ñ Ω ⸢ ⸥ ¿
           NBSP
 
@@ -91,7 +91,7 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 ### Circumflex accent and superscript
 
 	● ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁹ ⁰ ⁻ ⁼
-	  ● ŵ Ê ● ● ŷ û î ô ● ● ●
+	  ● ŵ ê ● ● ŷ û î ô ● ● ●
 	  â ŝ ● ● ĝ ĥ ĵ ● ● ● ● ●
 	● ẑ ● ĉ ● ● ⁿ ● ● ● ●
 	          ^
@@ -133,15 +133,15 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 ### Caron and subscript
 
 	● ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₀ ₋ ₌
-	  ǯ ● ě ř ť ● ǔ ǐ ǒ ● ● ●
+	  ● ● ě ř ť ● ǔ ǐ ǒ ● ● ●
 	  ǎ š ď ● ǧ ȟ ǆ ● ľ ● ● ●
-	● ● ₓ č ● ● ň ● ● ● ●
+	● ǯ ₓ č ● ● ň ● ● ● ●
 	          \
 	           
 	● ● ● ● ● ● ● ● ● ₍ ₎ ● ₊
-	  Ǯ ● Ě Ř Ť ● Ǔ Ǐ Ǒ ● ● ●
+	  ● ● Ě Ř Ť ● Ǔ Ǐ Ǒ ● ● ●
 	  Ǎ Š Ď ● Ǧ Ȟ Ǆ ● Ľ ● ● ●
-	● ● ● Č ● ● Ň ● ● ● ●
+	● Ǯ ● Č ● ● Ň ● ● ● ●
 	          \
 
 ### Macron and stroked characters
@@ -188,15 +188,16 @@ Keys marked with `●` aren’t defined, but might be in the future. From QWeuRT
 
 ## Help wanted
 
-I’ve been using QWeuRTY since 2020, so i know it’s working well on ISO keyboards and adequately on ANSI keyboards. I have provisional Coleman and Workman versions working, but i’d like to be sure they’re logical and ergonomic. If you can help, send me an e-mail at <anthony@nelzin.fr>. Thanks!
+I’ve been using QWeuRTY since 2020, so i know it’s working well on ISO keyboards and adequately on ANSI keyboards. I have provisional Colemak and Workman versions working, but i’d like to be sure they’re logical and ergonomic. If you can help, send me an e-mail at <anthony@nelzin.fr>. Thanks!
 
 ## Release history
 
+- **0.11 (260621)** Relocated `ǯ`
 - **0.10 (250626)** Relocated `ı`, `ḥ` and `ḷ`
 - **0.9 (250620)** First public release
-- ‌**0.8 (250615)** Removed the currency layer
+- **0.8 (250615)** Removed the currency layer
 - **0.7 (241103)** Added the dot layer
-- **0.6 (250215)** Removed the Greek and Cyrillic layers
+- **0.6 (240215)** Removed the Greek and Cyrillic layers
 - **0.5 (210107)** Added the caron and macron layers
 - **0.4 (210105)** Added the cedilla and ogonek layer
 - **0.3 (210104)** Added the AltGr/Opt layer and the breves
